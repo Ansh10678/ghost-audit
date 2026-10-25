@@ -1,0 +1,16 @@
+{
+  "snapshots": [
+    {
+      "data_store": "integration_service",
+      "collection": "connector_configurations",
+      "records": [
+        {
+          "resource_id": "data_flow_syn_999",
+          "subject_selector": "user_syn_102",
+          "owner_email": "bob.jones@example.com",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}

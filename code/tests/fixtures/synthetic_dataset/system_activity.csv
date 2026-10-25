@@ -1,0 +1,2 @@
+activity_id,event_time,event_type,source_system,target_system,resource_id,reported_result,details
+activity_syn_01,2026-05-01T00:00:00Z,CONTINUOUS_SYNC,customer_account,customer_analytics_warehouse,data_flow_syn_999,ACTIVE,Continuous data replication flow for bob.jones@example.com active.

@@ -1,0 +1,15 @@
+{
+  "snapshots": [
+    {
+      "data_store": "security_service",
+      "collection": "security_audit_events",
+      "records": [
+        {
+          "resource_id": "audit_rec_syn_01",
+          "user_id": "user_syn_101",
+          "action": "ACCOUNT_CLOSED"
+        }
+      ]
+    }
+  ]
+}

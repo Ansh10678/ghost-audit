@@ -1,0 +1,5 @@
+system_id,data_category,retention_rule,permitted_identifiers,action
+customer_account,USER_PROFILE,DELETE_ON_REQUEST,NONE,DELETE
+customer_account,ACCOUNT_TOMBSTONE,RETAIN_FOR_SYSTEM_INTEGRITY,USER_ID,REDACT
+security_audit_service,SECURITY_AUDIT_LOG,RETAIN_UNTIL_EXPIRY,USER_ID,RETAIN
+integration_service,DATA_FLOW,DISABLE_ON_REQUEST,NONE,DISABLE

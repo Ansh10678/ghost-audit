@@ -1,0 +1,4 @@
+user_id,name,email,phone,email_hash,updated_at
+user_syn_101,Alice Smith,alice.smith@example.com,+1 555-0101,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,2026-01-01T00:00:00Z
+user_syn_102,Bob Jones,bob.jones@example.com,+1 555-0102,a1b2c3d4e5f60102030405060708090a0b0c0d0e0f1011121314151617181920,2026-01-01T00:00:00Z
+user_syn_103,Charlie Brown,charlie.brown@example.com,+1 555-0103,b2c3d4e5f6a10102030405060708090a0b0c0d0e0f1011121314151617181921,2026-01-01T00:00:00Z

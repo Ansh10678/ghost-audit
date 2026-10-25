@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and runtime data
+.cache/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Environments
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.zip
+*.tar.gz
+*.tar.zst
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Hackathon / Benchmark dataset & runtime outputs (non-publishable)
+dataset/
+data/
+output.csv
+log.txt
+scratch/
+code/eval_reports/
+problem_statement.md
+CLAUDE.md
+agent_trace_instructions.md

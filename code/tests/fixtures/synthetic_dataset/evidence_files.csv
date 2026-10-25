@@ -1,0 +1,4 @@
+file_id,file_path,system_id,captured_at
+evidence_syn_01,evidence/databases/customer_db_syn.sql,customer_account,2026-06-08T00:00:00Z
+evidence_syn_02,evidence/records/audit_ledger_syn.json,security_audit_service,2026-06-08T00:00:00Z
+evidence_syn_03,evidence/records/connector_configurations_syn.json,integration_service,2026-06-08T00:00:00Z

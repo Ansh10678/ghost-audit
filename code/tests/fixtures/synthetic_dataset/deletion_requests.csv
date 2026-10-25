@@ -1,0 +1,4 @@
+case_id,email,requested_at,reported_status,reported_at,audit_at,request_text
+case_syn_001,alice.smith@example.com,2026-06-01T10:00:00Z,COMPLETE,2026-06-05T10:00:00Z,2026-06-10T10:00:00Z,Please delete my account and erase all my personal data.
+case_syn_002,bob.jones@example.com,2026-06-01T10:00:00Z,COMPLETE,2026-06-05T10:00:00Z,2026-06-10T10:00:00Z,I want my personal data deleted from all systems.
+case_syn_003,charlie.brown@example.com,2026-06-01T10:00:00Z,NOT_STARTED,2026-06-05T10:00:00Z,2026-06-10T10:00:00Z,"Please stop the promotional emails. I still need the account and my order history, so I am not asking for deletion."
